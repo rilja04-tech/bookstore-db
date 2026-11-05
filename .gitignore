@@ -1,0 +1,7 @@
+# локальные данные Postgres, если запускать без Docker
+pgdata/
+
+.idea/
+.vscode/
+.DS_Store
+*.log
